@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm studying computer engineering 3th year at Halic University. 🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Swift and SwiftUI.<br>✉️ You can contact me at ramazanzkn07@gmail.com<br>🌍 I'm based in Istanbul - Antalya / Turkey<br>
+📝I'm studying computer engineering 3th year at Halic University.<br>🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Swift and SwiftUI.<br>✉️ You can contact me at ramazanzkn07@gmail.com<br>🌍 I'm based in Istanbul - Antalya / Turkey<br>
 
 
 ## 🌐 Socials:
